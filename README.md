@@ -48,7 +48,7 @@ Com base nesta proposição, depois de algumas análises foi definida a ideia de
 
 
 - **HTML, CSS, Bootstrap e JavaScript**
-    - Recursos igualmente importantes para a estruturação, estilização e interatividade da página web.
+    - Recursos importantes para a estruturação, estilização e interatividade da página web.
 
 
 
@@ -88,9 +88,57 @@ Além disso, foquei em auxiliar na elaboração de uma documentação clara e co
     - Seguindo a noção de mínimo produto viável, foi necessário pensar logicamente para fazer entregas convincentes a fim de garantir a validação do produto pelo cliente. Portanto, a priorização de funcionalidades mais relevantes foi primordial para o planejamento como um todo.
 
 
+## Em 2020-1 | Pineapple
+
+Mudando a dinâmica do primeiro semestre, na qual eu e a minha equipe tínhamos a solução e precisávamos encontrar um problema, neste projeto tivemos como parceiro acadêmico a empresa Necto, que possuía o desafio de criar um gerenciador de projetos cujo planejamento deveria ser demonstrado através de um diagrama de Gantt.
+Dado o desafio, nós desenvolvemos o sistema nomeado como "Pineapple", que foi pensado pra ser um sistema flexível, intuitivo e de fácil utilização conforme os requisitos da empresa Necto.
+A aplicação tinha as seguintes funções:
+
+- Gerenciamento de Projetos;
 
 
+- Gerenciamento de Tarefas;
 
 
+- Gerenciamento de Funcionários;
+
+
+- Relatório de atividades.
+
+
+## Tecnologias utilizadas
+
+- **Java**
+
+    - Com o auxílio de suas bibliotecas para criação de um projeto WEB, esta tecnologia foi utilizada para desenvolver as funções mais vitais do sistema.
+
+
+- **Java Server Pages (JSP)**
+
+    - Este Framework é uma tecnologia que combina as linguagens de marcação HTML/XML e elementos da linguagem de programação Java, a fim de um conteúdo dinâmico e interativo em uma página WEB.
+
+
+- **HTML, CSS e JavaScript**
+
+    - Recursos importantes para a estruturação, estilização e interatividade da página web.
+
+
+- **Bootstrap**
+
+    - Ferramenta que forneceu estruturas de CSS prontas para a criação de sites e aplicações responsivas de forma rápida e simples.
+
+
+- **MySQL**
+
+    - Para armazenamento de informações do sistema, utilizado para ser o banco de dados do projeto.
+
+
+- **Gradle**
+
+    - É um sistema de automação de builds. Oferece uma maneira flexível de compilar, criar e empacotar dependências do Java.
+
+## Contribuições individuais
+
+Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, auxiliando nos formulários de cadastro das entidades e no layout do gráfico de Gant. Também tive contribuição na escolha do template utilizado no sidebar (menu lateral). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe, portanto foi necessário uma boa comunicação  e resiliência durante todo o trajeto até a sprint final.
 
 
