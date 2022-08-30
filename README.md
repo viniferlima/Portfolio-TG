@@ -38,7 +38,7 @@ Com base nesta proposição, depois de algumas análises foi definida a ideia de
 ## Tecnologias utilizadas
 
 - **Python**
-    - Tecnologia utilizada para desenvolver as funções mais vitais do sistema por meio de suas bibliotecas e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, neste caso o marketplace da Amazon.
+    - Tecnologia utilizada para desenvolver as funções mais vitais do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
 
 
 
@@ -81,7 +81,7 @@ Além disso, foquei em auxiliar na elaboração de uma documentação clara e co
 
 ## Soft Skills
 
-- **Comunicação**
+- **Comunicação eficaz**
     - Tive que me acostumar a interação constante com o time. A cooperação foi fator presente do começo ao fim do projeto, o que proporcionou que as dúvidas fossem sanadas e os pensamentos alinhados, quando necessário.
 
 - **Priorização**
@@ -139,6 +139,25 @@ A aplicação tinha as seguintes funções:
 
 ## Contribuições individuais
 
-Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, auxiliando nos formulários de cadastro das entidades e no layout do gráfico de Gant. Também tive contribuição na escolha do template utilizado no sidebar (menu lateral). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe, portanto foi necessário uma boa comunicação  e resiliência durante todo o trajeto até a sprint final.
+Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, auxiliando na criação dos formulários de cadastro das entidades e no layout do gráfico de Gantt. Também tive contribuição na escolha do template utilizado no sidebar (menu lateral), na descrição dos requisitos e poucas ocasiões lidei com o back end (Java). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe. Em alguns momentos, houve interpretações distoantes entre os membros da equipe, portanto foi necessário uma boa comunicação  e resiliência para sanar todas as dúvidas que surgiam durante todo o percurso até a sprint final.
 
+## Hard Skills
 
+- **Java**
+    - Apesar de já ter tido um raso contato com esta linguagem anteriormente, foi um grande desafio lidar com a sintaxe verborrágica do Java. Entretanto, esta experiência foi fundamental para eu me familiarizar com a linguagem. Além disso, também houve contatos iniciais com os conceitos de orientação a objetos e com a IDE Eclipse.
+
+- **Programação Orientada a Objetos (P.O.O)**
+    - Neste período tive um vislumbre inicial deste paradigma de progração que auxilia na organização, interpretação e reuso do código.
+
+- **Java Server Pages (JSP)**
+    - Esta ferramenta viabilizou um melhor entendimento no que se diz respeito a embutir dinamismo em páginas web por meio do mecanismo de servlets.
+
+- **Heurísticas de Nielsen**
+    - Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface de usuário ideal para o projeto. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
+
+## Soft Skills
+    - **Paciência**
+        - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
+
+    -  **Flexibilidade**
+        - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe. 
