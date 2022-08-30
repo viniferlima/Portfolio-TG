@@ -156,8 +156,9 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
     - Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface de usuário ideal para o projeto. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
 
 ## Soft Skills
-    - **Paciência**
-        - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
 
-    -  **Flexibilidade**
-        - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe. 
+- **Paciência**
+    - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
+
+-  **Flexibilidade**
+    - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe. 
