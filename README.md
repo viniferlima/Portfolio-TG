@@ -58,7 +58,7 @@ Com base nesta proposição, depois de algumas análises foi definida a ideia de
 
 ## Contribuições individuais
 
-Dentre as minhas principais contribuições ao projeto, é pertinente destacar a minha atuação no desenvolvimento do front end, que por meio do uso do framework Vue JS, foi possível realizar a componentização dos elementos do site, favorecendo assim, o reuso do código. O uso do Bootstrap possibilitou uma melhor organização e estética á página web.
+Dentre as minhas principais contribuições ao projeto, é pertinente destacar a minha atuação no desenvolvimento do front end, que por meio do uso do framework Vue JS, foi possível realizar a componentização dos elementos do site, favorecendo assim, o reuso do código.
 
 Na parte do BD, aprimorei meu conhecimento em comandos DDL e DML para criação e manipulação de dados. 
 
@@ -161,4 +161,43 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
     - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
 
 -  **Flexibilidade**
-    - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe. 
+    - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe.
+
+
+## Em 2020-2 | Semáforo do Consumidor
+
+Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta que serviria de complemento para o sistema Cadastro Positivo. Com o desafio proposto, realizamos o desenvolvimento da ferramenta do Semáforo do consumidor, que tinha como propósito estimular toda a cadeia de consumo de forma consciente, estimulado aqueles que estão com uma situação financeira instável a conseguir sua independência financeira; para aqueles que estão confortáveis financeiramente, são dedicados incentivos ao consumo com qualidade e com as melhores condições; e para empresas parceiras, é passado o direcionamento de consumidores qualificados, aumentando consequentemente, o índice de vendas e comissões.
+
+## Tecnologias utilizadas
+
+- **Java**
+    - Principal linguagem que montou toda a estrutura que possibilita as operação mais importantes do sistema.
+
+- **Docker**
+    - O Docker é uma plataforma open source que promove a criação e gerenciamento de ambientes isolados. Ele possibilita o empacotamento de uma aplicação ou ambiente dentro de contêiners (pacotes), se tornando portátil e de execução rápida e confiável.
+
+- **Postgres SQL**
+    - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+
+- **HTML, CSS, Bootstrap e JavaScript**
+    - Recursos importantes para a estruturação, estilização e interatividade da página web.
+
+## Contribuições individuais
+
+Neste projeto eu participei da criação do layout do sistema, ajudando no uso do template Bootstrap nos formulários, na tela de login e no menu de navegação principal. Tendo em vista os projetos anteriores, existiu um desafio inédito: as decisões relativas ao sistema eram pautadas na Lei Geral de Proteção de Dados (LGPD), o que exigiu muitas pesquisas e discussões constantes com a minha equipe.
+
+## Hard Skills
+
+- **Bootstrap**
+
+- **Wireframes**
+
+- **Docker**
+
+## Soft Skills
+
+- **Comunicação eficaz**
+
+- ****
+
+
