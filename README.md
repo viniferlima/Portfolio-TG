@@ -197,7 +197,7 @@ Neste projeto eu participei da criação do layout do sistema, ajudando no uso d
     - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
 
 - **Colaboração**
-    - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em superar os desafios que eram impostos.
+    - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
 
 
 
