@@ -1,7 +1,7 @@
 # **Vinicius Fernandes de Lima**
 
 
-## Sobre mim
+## Sobre mim :wave:
 
 Olá, meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnico Opção e atualmente estou cursando o tecnólogo de Banco de dados na Fatec de São José dos Campos. No momento presente, trabalho como desenvolvedor Fullstack Angular e Spring Boot na empresa Alloc IT Solutions, atuando no desenvolvimento de uma solução tecnológica, voltada para a área comercial, que faz integrações com o ERP SAP. Estou nessa função desde abril de 2021, quando iniciei a minha carreira na área. Nesta minha trajetória até aqui, aprendi que há muito a ser desbravado e há sempre novos conhecimentos para serem absorvidos. Me afeiçoo bastante pelo desenvolvimento web e desejo continuar enriquecendo minhas capacidades por meio do contato intenso com livros, cursos, artigos e fóruns, sendo javascript um dos meus principais focos de estudo.
 
@@ -23,7 +23,7 @@ Olá, meu nome é Vinicius, sou técnico em informática formado pelo Colégio T
 
 # **Meus projetos**
 
-## Em 2019-2 | GlaDOS
+## Em 2019-2 | **GlaDOS** 🤖 | Parceiro: Fatec
 
 A proposta deste Projeto Integrador foi de caráter um tanto quanto subversivo e desafiador, no qual a solução foi fornecida, e a partir desta, os alunos deviam buscar um problema coerente.
 
@@ -41,20 +41,16 @@ Com base nesta proposição, depois de algumas análises foi definida a ideia de
     - Tecnologia utilizada para desenvolver as funções mais vitais do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
 
 
-
 - **Vue.js** 
     - Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e garantiu a equipe muita facilidade no seu uso.
-
 
 
 - **HTML, CSS, Bootstrap e JavaScript**
     - Recursos importantes para a estruturação, estilização e interatividade da página web.
 
 
-
 - **MySQL**
     - Para armazenamento de informações do sistema, foi utilizado para ser o banco de dados do projeto.
-
 
 ## Contribuições individuais
 
@@ -88,7 +84,7 @@ Além disso, foquei em auxiliar na elaboração de uma documentação clara e co
     - Seguindo a noção de mínimo produto viável, foi necessário pensar logicamente para fazer entregas convincentes a fim de garantir a validação do produto pelo cliente. Portanto, a priorização de funcionalidades mais relevantes foi primordial para o planejamento como um todo.
 
 
-## Em 2020-1 | Pineapple
+## Em 2020-1 | **Pineapple** :pineapple: | Parceiro: Necto
 
 Mudando a dinâmica do primeiro semestre, na qual eu e a minha equipe tínhamos a solução e precisávamos encontrar um problema, neste projeto tivemos como parceiro acadêmico a empresa Necto, que possuía o desafio de criar um gerenciador de projetos cujo planejamento deveria ser demonstrado através de um diagrama de Gantt.
 Dado o desafio, nós desenvolvemos o sistema nomeado como "Pineapple", que foi pensado pra ser um sistema flexível, intuitivo e de fácil utilização conforme os requisitos da empresa Necto.
@@ -109,32 +105,26 @@ A aplicação tinha as seguintes funções:
 ## Tecnologias utilizadas
 
 - **Java**
-
     - Com o auxílio de suas bibliotecas para criação de um projeto WEB, esta tecnologia foi utilizada para desenvolver as funções mais vitais do sistema.
 
 
 - **Java Server Pages (JSP)**
-
     - Este Framework é uma tecnologia que combina as linguagens de marcação HTML/XML e elementos da linguagem de programação Java, a fim de um conteúdo dinâmico e interativo em uma página WEB.
 
 
 - **HTML, CSS e JavaScript**
-
     - Recursos importantes para a estruturação, estilização e interatividade da página web.
 
 
 - **Bootstrap**
-
     - Ferramenta que forneceu estruturas de CSS prontas para a criação de sites e aplicações responsivas de forma rápida e simples.
 
 
 - **MySQL**
-
     - Para armazenamento de informações do sistema, utilizado para ser o banco de dados do projeto.
 
 
 - **Gradle**
-
     - É um sistema de automação de builds. Oferece uma maneira flexível de compilar, criar e empacotar dependências do Java.
 
 ## Contribuições individuais
@@ -160,11 +150,11 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
 - **Paciência**
     - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
 
--  **Flexibilidade**
-    - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe.
+-  **Atitude Positiva**
+    - Foi necessário manter-se motivado, otimista, focado nas possibilidades reais e mais nos acertos do que nos erros. Tentei sempre expor uma postura contagiante diante da equipe, ajudando da melhor forma.
 
 
-## Em 2020-2 | Semáforo do Consumidor
+## Em 2020-2 | **Semáforo do Consumidor** :traffic_light: | Parceiro: SPC
 
 Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta que serviria de complemento para o sistema Cadastro Positivo. Com o desafio proposto, realizamos o desenvolvimento da ferramenta do Semáforo do consumidor, que tinha como propósito estimular toda a cadeia de consumo de forma consciente, estimulado aqueles que estão com uma situação financeira instável a conseguir sua independência financeira; para aqueles que estão confortáveis financeiramente, são dedicados incentivos ao consumo com qualidade e com as melhores condições; e para empresas parceiras, é passado o direcionamento de consumidores qualificados, aumentando consequentemente, o índice de vendas e comissões.
 
@@ -173,14 +163,18 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 - **Java**
     - Principal linguagem que montou toda a estrutura que possibilita as operação mais importantes do sistema.
 
+
 - **Docker**
     - O Docker é uma plataforma open source que promove a criação e gerenciamento de ambientes isolados. Ele possibilita o empacotamento de uma aplicação ou ambiente dentro de contêiners (pacotes), se tornando portátil e de execução rápida e confiável.
 
+
 - **Postgres SQL**
-    - PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+    - Usados para armazenar os dados da aplicação, o PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+
 
 - **HTML, CSS, Bootstrap e JavaScript**
     - Recursos importantes para a estruturação, estilização e interatividade da página web.
+
 
 ## Contribuições individuais
 
@@ -189,15 +183,22 @@ Neste projeto eu participei da criação do layout do sistema, ajudando no uso d
 ## Hard Skills
 
 - **Bootstrap**
+    - Realizei ajustes de layout por meio templates com regras CSS pré estabelecidas. Aprendi melhor noções de alinhamento, espaçamento e redimensionamento dentro do CSS. 
 
 - **Wireframes**
+    - Os wireframes serviram para auxiliar na estruturação e validação de ideias para a interface gráfica. É uma boa técnica para encontrar a identidade visual de um website, com o uso de protótipos.
 
 - **Docker**
+    - Aprendi alguns comandos básicos no docker, como execução de containers e gerenciamento de volumes. 
 
 ## Soft Skills
 
-- **Comunicação eficaz**
+- **Flexibilidade**
+    - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
 
-- ****
+- **Colaboração**
+    - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em superar os desafios que eram impostos.
+
+
 
 
