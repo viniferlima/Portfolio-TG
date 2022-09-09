@@ -199,6 +199,39 @@ Neste projeto eu participei da criação do layout do sistema, ajudando no uso d
 - **Colaboração**
     - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
 
+## Em 2021-1 | **Pythaon** :on: | Parceiro: Jetsoft
+
+No primeiro semestre de 2021, a premissa do projeto foi desenvolver uma solução parametrizável que combine diversos critérios, para busca de candidatos em diferentes vagas com diferentes recrutadores, propondo um processo eficiente para a contratação e evasão de funcionários, reduzindo assim, custos e aumentando a satisfação com alocações mais adequadas. A minha equipe visou criar um sistema para a otimização e que facilite o processo de contratação de novos colaboradores, visando a rapidez e agilidade nos procedimentos.
+
+Em suma, o projeto possui as seguintes funções:
+
+- Gerenciamento de vagas;
+
+- Gerenciamento de candidatos;
+
+- Busca por critérios com o perfil da vaga;
+
+- Busca por candidatos com perfil da vaga;
 
 
+## Tecnologias utilizadas
 
+- **Python**
+    - Principal linguagem que possibilitou a criação das funções mais vitais do sistema. Por meio de suas bibliotecas foi possível estruturar a nossa API.
+
+
+- **Django**
+    - É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view (MVC). Permite a criação de processos muito otimizados.
+
+
+- **Mongo DB**
+    - Banco de dados não relacional (NoSQL) utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliariam em uma das principais funções do projeto.
+
+
+- **Postman**
+    - É uma plataforma de API para desenvolvedores projetar, construir, testar e iterar os endpoints da API por meio de requisições HTTP.
+
+
+## Contribuições individuais
+
+Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação a atribuições que tive no decorrer do projeto, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, 
