@@ -225,7 +225,7 @@ Em suma, o projeto possui as seguintes funções:
 
 
 - **Mongo DB**
-    - Banco de dados não relacional (NoSQL) utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliariam em uma das principais funções do projeto.
+    - Banco de dados não relacional (NoSQL) utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliaram em uma das principais funções do projeto.
 
 
 - **Postman**
@@ -234,4 +234,25 @@ Em suma, o projeto possui as seguintes funções:
 
 ## Contribuições individuais
 
-Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação a atribuições que tive no decorrer do projeto, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, 
+Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação a atribuições que tive no decorrer do projeto, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
+
+## Hard Skills
+
+- **Mongo DB**
+    - Neste projeto tive a oportunidade de aprender esta nova ideia banco de dados orientado a documentos. Além da instalação e utilização também aprendi as vantagens, desvantagens e características deste banco de dados não relacional.
+
+- **API**
+    - APIs são mecanismos que permitem que dois componentes de software (client e server side) se comuniquem usando um conjunto de definições e protocolos. Dentro deste conceito, fui capaz de compreender o mecanismo de diálogo existente entre o front e o back end, por meio de requisições HTTP que são usadas para acessar os dados do servidor (GET, POST, PUT, DELETE, etc).
+
+## Soft Skills
+
+- **Diligência**
+    - Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Para garantir isso, o Mongo DB foi escolhido para armazenar os dados do sistema, trazendo mais leveza, escalabilidade e versatilidade no manejo dos dados.
+
+- **Comunicação eficaz**
+    - Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
+
+## Em 2021-2 | **Pythaoff** :no_mobile_phones: | Parceiro: Jetsoft
+
+
+
