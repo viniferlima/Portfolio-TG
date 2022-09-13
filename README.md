@@ -252,7 +252,23 @@ Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja re
 - **Comunicação eficaz**
     - Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
 
-## Em 2021-2 | **Pythaoff** :no_mobile_phones: | Parceiro: Jetsoft
+## Em 2021-2 | **Pythaoff** :no_mobile_phones: | Parceiro: Ness
+
+Neste período, foi proposto o desafio de desenvolver uma solução de dados voltada para o ensino a distância, neste contexto foi criada a aplicação Pythaoff. O sistema deveria promover uma gestão para instituições de ensino, a partir de um outro projeto já desenvolvido por outra equipe de API em semestres anteriores. Afim de atingir os objetivos de gestão, o sistema deveria contemplar alguns relatórios, utilizando a tecnologia de DataWarehouse e um modelo OLAP para visualização e análise de dados. De maneira breve, é pertinente descrever os relatórios solicitados da seguinte forma: 
+
+- Engajamento: quais alunos/colaboradores estão fazendo o curso no qual estão matriculados;
+
+- Participação x taxas de conclusão x desempenho dos alunos/colaboradores;
+
+- Desempenho: qual o aproveitamento (nota atingida) no curso matriculado;
+
+- Avaliação de reação (feedback): qualificação do conteúdo apresentado, experiência do aluno/colaborador durante o curso;
+
+- Acompanhamento do tempo de participação no curso: tempo online executando as atividades;
+
+- Registro de chats e logs;
+
+
 
 
 
