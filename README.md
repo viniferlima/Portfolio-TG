@@ -3,16 +3,18 @@
 
 ## Sobre mim :wave:
 
-Olá, meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnico Opção e atualmente estou cursando o tecnólogo de Banco de dados na Fatec de São José dos Campos. No momento presente, trabalho como desenvolvedor Fullstack Angular e Spring Boot na empresa Alloc IT Solutions, atuando no desenvolvimento de uma solução tecnológica, voltada para a área comercial, que faz integrações com o ERP SAP. Estou nessa função desde abril de 2021, quando iniciei a minha carreira na área. Nesta minha trajetória até aqui, aprendi que há muito a ser desbravado e há sempre novos conhecimentos para serem absorvidos. Me afeiçoo bastante pelo desenvolvimento web e desejo continuar enriquecendo minhas capacidades por meio do contato intenso com livros, cursos, artigos e fóruns, sendo javascript um dos meus principais focos de estudo.
+Meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnico Opção e atualmente faço o curso superior de "Tecnologia de Banco de Dados" na Fatec de São José dos Campos. No momento, trabalho como desenvolvedor full stack Angular e Spring Boot na empresa Alloc IT Solutions, atuando no desenvolvimento de uma solução tecnológica, voltada para a área comercial, que faz integrações com o ERP SAP. Estou nessa função desde abril de 2021, quando iniciei a minha carreira na área. Durante a minha trajetória, aprendi que há muito a ser desbravado e há sempre novos conhecimentos para serem absorvidos. Me afeiçoo bastante pelo desenvolvimento web e desejo continuar enriquecendo minhas capacidades por meio do contato intenso com livros, cursos, artigos e fóruns, sendo javascript um dos meus principais focos de estudo.
 
 ## Conhecimentos técnicos
 
 * Java
 * Spring Boot
-* Oracle, MySQL, PostgresSQL
+* Oracle, MySQL, PostgresSQL, MongoDB
 * Python
 * Angular
-* HTML, CSS, JS
+* HTML
+* CSS
+* JavaScript
 * C#
 
 ## Contato
@@ -23,13 +25,13 @@ Olá, meu nome é Vinicius, sou técnico em informática formado pelo Colégio T
 
 # **Meus projetos**
 
-## Em 2019-2 | **GlaDOS** 🤖 | Parceiro: Fatec
+## Período 2019-2 | **GlaDOS** 🤖 | Parceiro: Fatec
 
-A proposta deste Projeto Integrador foi de caráter um tanto quanto subversivo e desafiador, no qual a solução foi fornecida, e a partir desta, os alunos deviam buscar um problema coerente.
+A proposta deste Projeto Integrador foi de caráter um tanto desafiador, no qual a solução foi fornecida, e a partir desta, os alunos deviam buscar um problema coerente.
 
 A solução apresentada, que também pode ser entendida como requisito mínimo deste API, foi o desenvolvimento de um WEB Bot que deveria atender a uma demanda específica de um usuário final.
 
-Com base nesta proposição, depois de algumas análises foi definida a ideia de construção de um buscador de preços no marketplace da Amazon, que tinha como finalidade buscar as melhores ofertas da plataforma e informar os percentuais de descontos, quando houvessem. Portanto, agindo como um radar de preços, GlaDOS cumpria as seguintes tarefas:
+Com base nesta premissa, depois de algumas análises foi definida a ideia de construção de um buscador de preços no marketplace da Amazon, que tinha como finalidade buscar as melhores ofertas da plataforma e informar os percentuais de descontos, quando existissem. Portanto, agindo como um radar de preços, GlaDOS cumpria as seguintes tarefas:
 
 * Busca de melhores preços em lojas virtuais;
 * Cálculos e análises de percentuais de desconto;
@@ -38,7 +40,7 @@ Com base nesta proposição, depois de algumas análises foi definida a ideia de
 ## Tecnologias utilizadas
 
 - **Python**
-    - Tecnologia utilizada para desenvolver as funções mais vitais do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
+    - Tecnologia utilizada para os requisitos funcionais prioritários do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
 
 
 - **Vue.js** 
@@ -50,7 +52,7 @@ Com base nesta proposição, depois de algumas análises foi definida a ideia de
 
 
 - **MySQL**
-    - Para armazenamento de informações do sistema, foi utilizado para ser o banco de dados do projeto.
+    - Para armazenamento de informações do sistema, foi escolhido como sendo o banco de dados do projeto.
 
 ## Contribuições individuais
 
