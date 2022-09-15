@@ -44,7 +44,7 @@ Com base nesta premissa, depois de algumas análises foi definida a ideia de con
 
 
 - **Vue.js** 
-    - Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e garantiu a equipe muita facilidade no seu uso.
+    - Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e o código mais legível, já que possibilita a reutilização de componentes; e também garantiu mais facilidade no seu uso, por meio de suas diretivas e eventos.
 
 
 - **HTML, CSS, Bootstrap e JavaScript**
@@ -56,7 +56,7 @@ Com base nesta premissa, depois de algumas análises foi definida a ideia de con
 
 ## Contribuições individuais
 
-Dentre as minhas principais contribuições ao projeto, é pertinente destacar a minha atuação no desenvolvimento do front end, que por meio do uso do framework Vue JS, foi possível realizar a componentização dos elementos do site, favorecendo assim, o reuso do código.
+Neste projeto, o destaque da minha atuação como dev foi no desenvolvimento do front end, através da utilização do framework VueJs, possibilitando o desenvolvimento de componentes e a reutilização do código.
 
 Na parte do BD, aprimorei meu conhecimento em comandos DDL e DML para criação e manipulação de dados. 
 
@@ -71,7 +71,7 @@ Além disso, foquei em auxiliar na elaboração de uma documentação clara e co
     - Foi a primeira vez em que utilizei uma ferramenta de controle de versão distribuido. Com o versionamento, as ramificações e a flexibilidade que o Git traz, passei a entender,  na prática, o quanto esta ferramente otimiza enormemente o desenvolvimento de uma equipe.
 
 - **HTML, CSS e JavaScript**
-    - Foi a primeira experiência que me fez perceber, de fato, o papel de cada uma dessas ferramentas na construção de uma página web harmoniosa: o HTML assumindo a função de estrutura, o CSS responsável pelo embelezamento e o JavaScript dando vida a aplicação web com as suas funções e eventos.
+    - Foi a primeira experiência que me fez perceber, de fato, o papel de cada uma dessas ferramentas na construção de uma página web interativa: o HTML assumindo a função de estrutura, o CSS responsável pelo embelezamento e o JavaScript dando vida a aplicação web com as suas funções e eventos.
 
 - **Vue JS**
     - Por meio do uso dessa ferramenta, conheci a facilidade que um framework do JavaScript pode trazer para o desenvolvedor quando se diz respeito a organização do código e praticidade.
@@ -86,7 +86,7 @@ Além disso, foquei em auxiliar na elaboração de uma documentação clara e co
     - Seguindo a noção de mínimo produto viável, foi necessário pensar logicamente para fazer entregas convincentes a fim de garantir a validação do produto pelo cliente. Portanto, a priorização de funcionalidades mais relevantes foi primordial para o planejamento como um todo.
 
 
-## Em 2020-1 | **Pineapple** :pineapple: | Parceiro: Necto
+## Período 2020-1 | **Pineapple** :pineapple: | Parceiro: Necto
 
 Mudando a dinâmica do primeiro semestre, na qual eu e a minha equipe tínhamos a solução e precisávamos encontrar um problema, neste projeto tivemos como parceiro acadêmico a empresa Necto, que possuía o desafio de criar um gerenciador de projetos cujo planejamento deveria ser demonstrado através de um diagrama de Gantt.
 Dado o desafio, nós desenvolvemos o sistema nomeado como "Pineapple", que foi pensado pra ser um sistema flexível, intuitivo e de fácil utilização conforme os requisitos da empresa Necto.
@@ -107,7 +107,7 @@ A aplicação tinha as seguintes funções:
 ## Tecnologias utilizadas
 
 - **Java**
-    - Com o auxílio de suas bibliotecas para criação de um projeto WEB, esta tecnologia foi utilizada para desenvolver as funções mais vitais do sistema.
+    - Com o auxílio de suas bibliotecas para criação de um projeto WEB, esta tecnologia foi utilizada para desenvolver regras de negócio do sistema.
 
 
 - **Java Server Pages (JSP)**
@@ -119,7 +119,7 @@ A aplicação tinha as seguintes funções:
 
 
 - **Bootstrap**
-    - Ferramenta que forneceu estruturas de CSS prontas para a criação de sites e aplicações responsivas de forma rápida e simples.
+    - Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples.
 
 
 - **MySQL**
@@ -131,7 +131,7 @@ A aplicação tinha as seguintes funções:
 
 ## Contribuições individuais
 
-Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, auxiliando na criação dos formulários de cadastro das entidades e no layout do gráfico de Gantt. Também tive contribuição na escolha do template utilizado no sidebar (menu lateral), na descrição dos requisitos e poucas ocasiões lidei com o back end (Java). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe. Em alguns momentos, houve interpretações distoantes entre os membros da equipe, portanto foi necessário uma boa comunicação  e resiliência para sanar todas as dúvidas que surgiam durante todo o percurso até a sprint final.
+Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, mais uma vez atuando como dev e auxiliando na criação dos formulários de cadastro das entidades e no layout do gráfico de Gantt. Também fui responsável pela escolha do template utilizado no sidebar (menu lateral), na descrição dos requisitos e poucas ocasiões lidei com o back end (Java). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe. Em alguns momentos, houve interpretações distoantes entre os membros da equipe, portanto foi necessário uma boa comunicação  e resiliência para sanar todas as dúvidas que surgiam durante todo o percurso até a sprint final.
 
 ## Hard Skills
 
@@ -142,21 +142,21 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
     - Neste período tive um vislumbre inicial deste paradigma de progração que auxilia na organização, interpretação e reuso do código.
 
 - **Java Server Pages (JSP)**
-    - Esta ferramenta viabilizou um melhor entendimento no que se diz respeito a embutir dinamismo em páginas web por meio do mecanismo de servlets.
+    - Com o uso desta ferramenta, é possível escrever HTML com códigos JSP embutidos, trazendo mais dinamismo a pagina web. Também tive o primeiro contato com o servlet-container tomcat. 
 
 - **Heurísticas de Nielsen**
-    - Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface de usuário ideal para o projeto. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
+    - Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface mais intuitiva e sugestiva para o usuário. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
 
 ## Soft Skills
 
-- **Paciência**
+- **Persistência**
     - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
 
 -  **Atitude Positiva**
     - Foi necessário manter-se motivado, otimista, focado nas possibilidades reais e mais nos acertos do que nos erros. Tentei sempre expor uma postura contagiante diante da equipe, ajudando da melhor forma.
 
 
-## Em 2020-2 | **Semáforo do Consumidor** :traffic_light: | Parceiro: SPC
+## Período 2020-2 | **Semáforo do Consumidor** :traffic_light: | Parceiro: SPC
 
 Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta que serviria de complemento para o sistema Cadastro Positivo. Com o desafio proposto, realizamos o desenvolvimento da ferramenta do Semáforo do consumidor, que tinha como propósito estimular toda a cadeia de consumo de forma consciente, estimulado aqueles que estão com uma situação financeira instável a conseguir sua independência financeira; para aqueles que estão confortáveis financeiramente, são dedicados incentivos ao consumo com qualidade e com as melhores condições; e para empresas parceiras, é passado o direcionamento de consumidores qualificados, aumentando consequentemente, o índice de vendas e comissões.
 
@@ -167,8 +167,7 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 
 
 - **Docker**
-    - O Docker é uma plataforma open source que promove a criação e gerenciamento de ambientes isolados. Ele possibilita o empacotamento de uma aplicação ou ambiente dentro de contêiners (pacotes), se tornando portátil e de execução rápida e confiável.
-
+    - O Docker oferece a capacidade de empacotar e executar um aplicativo em um ambiente isolado denominado container. O isolamento e a segurança permitem que você execute vários containers simultaneamente em um determinado host.
 
 - **Postgres SQL**
     - Usados para armazenar os dados da aplicação, o PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
@@ -180,7 +179,7 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 
 ## Contribuições individuais
 
-Neste projeto eu participei da criação do layout do sistema, ajudando no uso do template Bootstrap nos formulários, na tela de login e no menu de navegação principal. Tendo em vista os projetos anteriores, existiu um desafio inédito: as decisões relativas ao sistema eram pautadas na Lei Geral de Proteção de Dados (LGPD), o que exigiu muitas pesquisas e discussões constantes com a minha equipe.
+Como dev, neste projeto eu participei da criação do layout do sistema, ajudando no uso do template Bootstrap nos formulários, na tela de login e no menu de navegação principal. Tendo em vista os projetos anteriores, existiu um desafio inédito: as decisões relativas ao sistema eram pautadas na Lei Geral de Proteção de Dados (LGPD), o que exigiu muitas pesquisas e discussões constantes com a minha equipe.
 
 ## Hard Skills
 
@@ -196,14 +195,14 @@ Neste projeto eu participei da criação do layout do sistema, ajudando no uso d
 ## Soft Skills
 
 - **Flexibilidade**
-    - Foi necessário ser versátil para conseguir assimilar todas os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
+    - Foi necessário ser versátil para conseguir assimilar todos os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
 
 - **Colaboração**
     - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
 
-## Em 2021-1 | **Pythaon** :on: | Parceiro: Jetsoft
+## Período 2021-1 | **Pythaon** :on: | Parceiro: Jetsoft
 
-No primeiro semestre de 2021, a premissa do projeto foi desenvolver uma solução parametrizável que combine diversos critérios, para busca de candidatos em diferentes vagas com diferentes recrutadores, propondo um processo eficiente para a contratação e evasão de funcionários, reduzindo assim, custos e aumentando a satisfação com alocações mais adequadas. A minha equipe visou criar um sistema para a otimização e que facilite o processo de contratação de novos colaboradores, visando a rapidez e agilidade nos procedimentos.
+No primeiro semestre de 2021, a premissa do projeto foi desenvolver uma solução parametrizável que combine diversos critérios, para busca de candidatos em diferentes vagas com diferentes recrutadores, propondo um processo eficiente para a contratação e evasão de funcionários, reduzindo assim, custos e aumentando a satisfação com alocações mais adequadas. A minha equipe visou criar um sistema para a otimização e que facilite o processo de contratação de novos colaboradores, tendo como foco a rapidez e agilidade nos procedimentos.
 
 Em suma, o projeto possui as seguintes funções:
 
@@ -219,11 +218,11 @@ Em suma, o projeto possui as seguintes funções:
 ## Tecnologias utilizadas
 
 - **Python**
-    - Principal linguagem que possibilitou a criação das funções mais vitais do sistema. Por meio de suas bibliotecas foi possível estruturar a nossa API.
+    - Principal linguagem que possibilitou a criação das regras de negócio do sistema. Por meio de suas bibliotecas foi possível estruturar a nossa API.
 
 
 - **Django**
-    - É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view (MVC). Permite a criação de processos muito otimizados.
+    - É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão Model-View-Controller (MVC). Permite a criação de processos muito otimizados.
 
 
 - **Mongo DB**
@@ -236,7 +235,7 @@ Em suma, o projeto possui as seguintes funções:
 
 ## Contribuições individuais
 
-Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação a atribuições que tive no decorrer do projeto, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
+Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação as atribuições que tive no decorrer do projeto, exercendo o papel de dev, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
 
 ## Hard Skills
 
@@ -254,7 +253,7 @@ Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja re
 - **Comunicação eficaz**
     - Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
 
-## Em 2021-2 | **Pythaoff** :no_mobile_phones: | Parceiro: Ness
+## Período 2021-2 | **Pythaoff** :no_mobile_phones: | Parceiro: Ness
 
 Neste período, foi proposto o desafio de desenvolver uma solução de dados voltada para o ensino a distância, neste contexto foi criada a aplicação Pythaoff. O sistema deveria promover uma gestão para instituições de ensino, a partir de um outro projeto já desenvolvido por outra equipe de API em semestres anteriores. Afim de atingir os objetivos de gestão, o sistema deveria contemplar alguns relatórios, utilizando a tecnologia de DataWarehouse e um modelo OLAP para visualização e análise de dados. De maneira breve, é pertinente descrever os relatórios solicitados da seguinte forma: 
 
