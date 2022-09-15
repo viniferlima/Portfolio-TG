@@ -210,7 +210,7 @@ Em suma, o projeto possui as seguintes funções:
 
 - Gerenciamento de candidatos;
 
-- Busca por critérios com o perfil da vaga;
+- Busca por vagas com diferente critérios;
 
 - Busca por candidatos com perfil da vaga;
 
@@ -226,16 +226,16 @@ Em suma, o projeto possui as seguintes funções:
 
 
 - **Mongo DB**
-    - Banco de dados não relacional (NoSQL) utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliaram em uma das principais funções do projeto.
+    - Banco de dados não relacional orientado a documentos utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliaram em uma das principais funções do projeto.
 
 
 - **Postman**
-    - É uma plataforma de API para desenvolvedores projetar, construir, testar e iterar os endpoints da API por meio de requisições HTTP.
+    - É uma ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
 
 
 ## Contribuições individuais
 
-Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação as atribuições que tive no decorrer do projeto, exercendo o papel de dev, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
+Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação as atribuições que tive no decorrer do projeto, exercendo o papel de dev, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
 
 ## Hard Skills
 
@@ -243,7 +243,7 @@ Neste projeto ocorreu a virada de chave, pois passei a integrar um grupo cuja re
     - Neste projeto tive a oportunidade de aprender esta nova ideia banco de dados orientado a documentos. Além da instalação e utilização também aprendi as vantagens, desvantagens e características deste banco de dados não relacional.
 
 - **API**
-    - APIs são mecanismos que permitem que dois componentes de software (client e server side) se comuniquem usando um conjunto de definições e protocolos. Dentro deste conceito, fui capaz de compreender o mecanismo de diálogo existente entre o front e o back end, por meio de requisições HTTP que são usadas para acessar os dados do servidor (GET, POST, PUT, DELETE, etc).
+    - APIs são mecanismos que permitem que dois componentes de software se comuniquem usando um conjunto de definições e protocolos. Dentro deste conceito, fui capaz de compreender o mecanismo de diálogo existente entre o front e o back end, por meio de requisições HTTP que são usadas para acessar os dados do servidor (GET, POST, PUT, DELETE, etc).
 
 ## Soft Skills
 
