@@ -39,12 +39,10 @@ Com base nesta premissa, depois de algumas análises foi definida a ideia de con
 
 ## Tecnologias utilizadas
 
-- **Python**
-    - Tecnologia utilizada para os requisitos funcionais prioritários do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
+- **Python**: Tecnologia utilizada para os requisitos funcionais prioritários do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
 
 
-- **Vue.js** 
-    - Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e o código mais legível, já que possibilita a reutilização de componentes; e também garantiu mais facilidade no seu uso, por meio de suas diretivas e eventos.
+- **Vue.js**: Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e o código mais legível, já que possibilita a reutilização de componentes; e também garantiu mais facilidade no seu uso, por meio de suas diretivas e eventos.
 
 
 - **HTML, CSS, Bootstrap e JavaScript**
