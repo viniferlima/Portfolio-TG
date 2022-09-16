@@ -235,7 +235,7 @@ Em suma, o projeto possui as seguintes funções:
 
 ## Contribuições individuais
 
-Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação as atribuições que tive no decorrer do projeto, exercendo o papel de dev, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, podendo citar o uso da ferramenta VTO que auxiliou na geolocalização; por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
+Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação as atribuições que tive no decorrer do projeto, exercendo o papel de dev, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, merecendo destaque para o uso dos operadores geoespaciais para determinar distâncias e coordenadas ($maxDistance, $geometry e etc); por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
 
 ## Hard Skills
 
@@ -248,7 +248,7 @@ Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuj
 ## Soft Skills
 
 - **Diligência**
-    - Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Para garantir isso, o Mongo DB foi escolhido para armazenar os dados do sistema, trazendo mais leveza, escalabilidade e versatilidade no manejo dos dados.
+    - Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Esse banco dados foi escolhido por conta do alto desempenho com grandes volumes de dados, pela grande flexibilidade com documentos em formato JSON e pela fácil integração com Python.
 
 - **Comunicação eficaz**
     - Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
