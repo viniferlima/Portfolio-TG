@@ -25,7 +25,7 @@ Meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnic
 
 # **Meus projetos**
 
-## Período 2019-2 | **GlaDOS** 🤖 | Parceiro: Fatec
+## Período 2019-2 | **[GlaDOS](https://gitlab.com/omnitron/glados)** 🤖 | Parceiro: Fatec
 
 A proposta deste Projeto Integrador foi de caráter um tanto desafiador, no qual a solução foi fornecida, e a partir desta, os alunos deviam buscar um problema coerente.
 
@@ -86,7 +86,7 @@ Além disso, foquei em auxiliar na elaboração de uma documentação clara e co
     - Seguindo a noção de mínimo produto viável, foi necessário pensar logicamente para fazer entregas convincentes a fim de garantir a validação do produto pelo cliente. Portanto, a priorização de funcionalidades mais relevantes foi primordial para o planejamento como um todo.
 
 
-## Período 2020-1 | **Pineapple** :pineapple: | Parceiro: Necto
+## Período 2020-1 | **[Pineapple](https://gitlab.com/perilojunior68/visao-estrategica-de-projeto)** :pineapple: | Parceiro: Necto
 
 Mudando a dinâmica do primeiro semestre, na qual eu e a minha equipe tínhamos a solução e precisávamos encontrar um problema, neste projeto tivemos como parceiro acadêmico a empresa Necto, que possuía o desafio de criar um gerenciador de projetos cujo planejamento deveria ser demonstrado através de um diagrama de Gantt.
 Dado o desafio, nós desenvolvemos o sistema nomeado como "Pineapple", que foi pensado pra ser um sistema flexível, intuitivo e de fácil utilização conforme os requisitos da empresa Necto.
@@ -156,7 +156,7 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
     - Foi necessário manter-se motivado, otimista, focado nas possibilidades reais e mais nos acertos do que nos erros. Tentei sempre expor uma postura contagiante diante da equipe, ajudando da melhor forma.
 
 
-## Período 2020-2 | **Semáforo do Consumidor** :traffic_light: | Parceiro: SPC
+## Período 2020-2 | **[Semáforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor)** :traffic_light: | Parceiro: SPC
 
 Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta que serviria de complemento para o sistema Cadastro Positivo. Com o desafio proposto, realizamos o desenvolvimento da ferramenta do Semáforo do consumidor, que tinha como propósito estimular toda a cadeia de consumo de forma consciente, estimulado aqueles que estão com uma situação financeira instável a conseguir sua independência financeira; para aqueles que estão confortáveis financeiramente, são dedicados incentivos ao consumo com qualidade e com as melhores condições; e para empresas parceiras, é passado o direcionamento de consumidores qualificados, aumentando consequentemente, o índice de vendas e comissões.
 
@@ -200,7 +200,7 @@ Como dev, neste projeto eu participei da criação do layout do sistema, ajudand
 - **Colaboração**
     - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
 
-## Período 2021-1 | **Pythaon** :on: | Parceiro: Jetsoft
+## Período 2021-1 | **[Pythaon](https://gitlab.com/gurst6/projeto-integrador-pythaon)** :on: | Parceiro: Jetsoft
 
 No primeiro semestre de 2021, a premissa do projeto foi desenvolver uma solução parametrizável que combine diversos critérios, para busca de candidatos em diferentes vagas com diferentes recrutadores, propondo um processo eficiente para a contratação e evasão de funcionários, reduzindo assim, custos e aumentando a satisfação com alocações mais adequadas. A minha equipe visou criar um sistema para a otimização e que facilite o processo de contratação de novos colaboradores, tendo como foco a rapidez e agilidade nos procedimentos.
 
@@ -248,12 +248,12 @@ Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuj
 ## Soft Skills
 
 - **Diligência**
-    - Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Esse banco dados foi escolhido por conta do alto desempenho com grandes volumes de dados, pela grande flexibilidade com documentos em formato JSON e pela fácil integração com Python.
+    - Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Esse banco dados foi escolhido por conta do alto desempenho com grandes volumes de dados, pela flexibilidade com documentos em formato JSON e pela fácil integração com Python.
 
 - **Comunicação eficaz**
     - Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
 
-## Período 2021-2 | **Pythaoff** :no_mobile_phones: | Parceiro: Ness
+## Período 2021-2 | **[Pythaoff](https://gitlab.com/gurst6/pythaoff-ness)** :no_mobile_phones: | Parceiro: Ness
 
 Neste período, foi proposto o desafio de desenvolver uma solução de dados voltada para o ensino a distância, neste contexto foi criada a aplicação Pythaoff. O sistema deveria promover uma gestão para instituições de ensino, a partir de um outro projeto já desenvolvido por outra equipe de API em semestres anteriores. Afim de atingir os objetivos de gestão, o sistema deveria contemplar alguns relatórios, utilizando a tecnologia de DataWarehouse e um modelo OLAP para visualização e análise de dados. De maneira breve, é pertinente descrever os relatórios solicitados da seguinte forma: 
 
