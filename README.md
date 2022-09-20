@@ -168,7 +168,7 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 
 ## Contribuições individuais
 
-![Layout do site Semáforo do Consumidor](img/semaforo_do_consumidor.jpeg)
+![Layout do site Semáforo do Consumidor](img/semaforo_do_consumidor.png)
 
 Como dev, neste projeto eu participei da criação do layout do sistema, ajudando no uso do template Bootstrap nos formulários, na tela de login e no menu de navegação principal. Tendo em vista os projetos anteriores, existiu um desafio inédito: as decisões relativas ao sistema eram pautadas na Lei Geral de Proteção de Dados (LGPD), o que exigiu muitas pesquisas e discussões constantes com a minha equipe.
 
