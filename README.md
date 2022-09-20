@@ -34,54 +34,51 @@ A solução apresentada, que também pode ser entendida como requisito mínimo d
 Com base nesta premissa, depois de algumas análises foi definida a ideia de construção de um buscador de preços no marketplace da Amazon, que tinha como finalidade buscar as melhores ofertas da plataforma e informar os percentuais de descontos, quando existissem. Portanto, agindo como um radar de preços, GlaDOS cumpria as seguintes tarefas:
 
 * Busca de melhores preços em lojas virtuais;
+
 * Cálculos e análises de percentuais de desconto;
+
 * Comparação e acompanhamento de preços;
 
 ## Tecnologias utilizadas
 
-- **Python**: Tecnologia utilizada para os requisitos funcionais prioritários do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
+- **Python:** Tecnologia utilizada para os requisitos funcionais prioritários do sistema por meio de suas bibliotecas (por exemplo: lxml e request) e do seu micro-framework flask. Com o Python se fez possível a raspagem de dados, que consiste em extrair dados de outro software, sendo neste caso o marketplace da Amazon.
 
+- **Vue.js:** Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e o código mais legível, já que possibilita a reutilização de componentes; e também garantiu mais facilidade no seu uso, por meio de suas diretivas e eventos.
 
-- **Vue.js**: Responsável pela construção da interface gráfica, o framework Vue JS tornou a arquitetura da aplicação web mais organizada e o código mais legível, já que possibilita a reutilização de componentes; e também garantiu mais facilidade no seu uso, por meio de suas diretivas e eventos.
+- **HTML:** Linguagem utilizada para estruturação da página web (marcação de texto).
 
+- **CSS:** Linguagem que tem como função definir a estilização e todo o aspecto estético da página web.
 
-- **HTML, CSS, Bootstrap e JavaScript**
-    - Recursos importantes para a estruturação, estilização e interatividade da página web.
+- **JavaScript:** Linguagem de programação de uso geral, que neste projeto, foi usada para dar interatividade a pagina web.
 
+- **MySQL:** Para armazenamento de informações do sistema, foi escolhido como sendo o banco de dados do projeto.
 
-- **MySQL**
-    - Para armazenamento de informações do sistema, foi escolhido como sendo o banco de dados do projeto.
 
 ## Contribuições individuais
 
-Neste projeto, o destaque da minha atuação como dev foi no desenvolvimento do front end, através da utilização do framework VueJs, possibilitando o desenvolvimento de componentes e a reutilização do código.
+Neste projeto, o destaque da minha atuação como dev foi no front end, através da utilização do framework VueJs, possibilitando o desenvolvimento de componentes e a reutilização do código.
 
 Na parte do BD, aprimorei meu conhecimento em comandos DDL e DML para criação e manipulação de dados. 
 
 Além disso, foquei em auxiliar na elaboração de uma documentação clara e completa, a fim de agregar mais valor ao nosso produto final. Foi uma experiência marcante pois foi neste projeto que tive o primeiro contato com metodologias ágeis e com a própria ferramenta Git.
 
+
 ## Hard Skills
 
-- **Metodologia Scrum**
-    - Adquiri as primeiras noções dessa metodologia ágil, entendendo a importância da ideia de otimizar os recursos humanos e finalizar um projeto mais rápido, com melhor qualidade.
+- **Metodologia Scrum:** Adquiri as primeiras noções dessa metodologia ágil, entendendo a importância da ideia de otimizar os recursos humanos e finalizar um projeto mais rápido, com melhor qualidade.
 
-- **Git**
-    - Foi a primeira vez em que utilizei uma ferramenta de controle de versão distribuido. Com o versionamento, as ramificações e a flexibilidade que o Git traz, passei a entender,  na prática, o quanto esta ferramente otimiza enormemente o desenvolvimento de uma equipe.
+- **Git:** Aprendizado dos aspectos básicos em virtude do contato inicial.
 
-- **HTML, CSS e JavaScript**
-    - Foi a primeira experiência que me fez perceber, de fato, o papel de cada uma dessas ferramentas na construção de uma página web interativa: o HTML assumindo a função de estrutura, o CSS responsável pelo embelezamento e o JavaScript dando vida a aplicação web com as suas funções e eventos.
+- **HTML, CSS e JavaScript:** Foi a primeira experiência que me fez perceber, de fato, o papel de cada uma dessas ferramentas na construção de uma página web interativa: o HTML assumindo a função de estrutura, o CSS responsável pelo embelezamento e o JavaScript dando vida a aplicação web com as suas funções e eventos.
 
-- **Vue JS**
-    - Por meio do uso dessa ferramenta, conheci a facilidade que um framework do JavaScript pode trazer para o desenvolvedor quando se diz respeito a organização do código e praticidade.
+- **Vue JS:** Por meio do uso dessa ferramenta, conheci a facilidade que um framework do JavaScript pode trazer para o desenvolvedor quando se diz respeito a organização do código e praticidade.
 
 
 ## Soft Skills
 
-- **Comunicação eficaz**
-    - Tive que me acostumar a interação constante com o time. A cooperação foi fator presente do começo ao fim do projeto, o que proporcionou que as dúvidas fossem sanadas e os pensamentos alinhados, quando necessário.
+- **Comunicação eficaz:** Tive que me acostumar a interação constante com o time. A cooperação foi fator presente do começo ao fim do projeto, o que proporcionou que as dúvidas fossem sanadas e os pensamentos alinhados, quando necessário.
 
-- **Priorização**
-    - Seguindo a noção de mínimo produto viável, foi necessário pensar logicamente para fazer entregas convincentes a fim de garantir a validação do produto pelo cliente. Portanto, a priorização de funcionalidades mais relevantes foi primordial para o planejamento como um todo.
+- **Priorização:** Seguindo a noção de mínimo produto viável, foi necessário pensar logicamente para fazer entregas convincentes a fim de garantir a validação do produto pelo cliente. Portanto, a priorização de funcionalidades mais relevantes foi primordial para o planejamento como um todo.
 
 
 ## Período 2020-1 | **[Pineapple](https://gitlab.com/perilojunior68/visao-estrategica-de-projeto)** :pineapple: | Parceiro: Necto
@@ -92,66 +89,52 @@ A aplicação tinha as seguintes funções:
 
 - Gerenciamento de Projetos;
 
-
 - Gerenciamento de Tarefas;
 
-
 - Gerenciamento de Funcionários;
-
 
 - Relatório de atividades.
 
 
 ## Tecnologias utilizadas
 
-- **Java**
-    - Com o auxílio de suas bibliotecas para criação de um projeto WEB, esta tecnologia foi utilizada para desenvolver regras de negócio do sistema.
+- **Java:** Com o auxílio de suas bibliotecas para criação de um projeto WEB, esta tecnologia foi utilizada para desenvolver regras de negócio do sistema.
 
+- **Java Server Pages (JSP):** Este Framework é uma tecnologia que combina as linguagens de marcação HTML/XML e elementos da linguagem de programação Java, a fim de um conteúdo dinâmico e interativo em uma página WEB.
 
-- **Java Server Pages (JSP)**
-    - Este Framework é uma tecnologia que combina as linguagens de marcação HTML/XML e elementos da linguagem de programação Java, a fim de um conteúdo dinâmico e interativo em uma página WEB.
+- **HTML:** Linguagem utilizada para estruturação da página web (marcação de texto).
 
+- **CSS:** Linguagem que tem como função definir a estilização e todo o aspecto estético da página web.
 
-- **HTML, CSS e JavaScript**
-    - Recursos importantes para a estruturação, estilização e interatividade da página web.
+- **JavaScript:** Linguagem de programação de uso geral, que neste projeto, foi usada para dar interatividade a pagina web.
 
+- **Bootstrap:** É um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples.
 
-- **Bootstrap**
-    - Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples.
+- **MySQL:** Para armazenamento de informações do sistema, utilizado para ser o banco de dados do projeto.
 
+- **Gradle:** É um sistema de automação de builds. Oferece uma maneira flexível de compilar, criar e empacotar dependências do Java.
 
-- **MySQL**
-    - Para armazenamento de informações do sistema, utilizado para ser o banco de dados do projeto.
-
-
-- **Gradle**
-    - É um sistema de automação de builds. Oferece uma maneira flexível de compilar, criar e empacotar dependências do Java.
 
 ## Contribuições individuais
 
 Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, mais uma vez atuando como dev e auxiliando na criação dos formulários de cadastro das entidades e no layout do gráfico de Gantt. Também fui responsável pela escolha do template utilizado no sidebar (menu lateral), na descrição dos requisitos e poucas ocasiões lidei com o back end (Java). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe. Em alguns momentos, houve interpretações distoantes entre os membros da equipe, portanto foi necessário uma boa comunicação  e resiliência para sanar todas as dúvidas que surgiam durante todo o percurso até a sprint final.
 
+
 ## Hard Skills
 
-- **Java**
-    - Apesar de já ter tido um raso contato com esta linguagem anteriormente, foi um grande desafio lidar com a sintaxe verborrágica do Java. Entretanto, esta experiência foi fundamental para eu me familiarizar com a linguagem. Além disso, também houve contatos iniciais com os conceitos de orientação a objetos e com a IDE Eclipse.
+- **Java:** Apesar de já ter tido um raso contato com esta linguagem anteriormente, foi um grande desafio lidar com a sintaxe verborrágica do Java. Entretanto, esta experiência foi fundamental para eu me familiarizar com a linguagem. Além disso, também houve contatos iniciais com os conceitos de orientação a objetos e com a IDE Eclipse.
 
-- **Programação Orientada a Objetos (P.O.O)**
-    - Neste período tive um vislumbre inicial deste paradigma de progração que auxilia na organização, interpretação e reuso do código.
+- **Programação Orientada a Objetos (P.O.O):** Neste período tive um vislumbre inicial deste paradigma de progração que auxilia na organização, interpretação e reuso do código.
 
-- **Java Server Pages (JSP)**
-    - Com o uso desta ferramenta, é possível escrever HTML com códigos JSP embutidos, trazendo mais dinamismo a pagina web. Também tive o primeiro contato com o servlet-container tomcat. 
+- **Java Server Pages (JSP):** Com o uso desta ferramenta, é possível escrever HTML com códigos JSP embutidos, trazendo mais dinamismo a pagina web. Também tive o primeiro contato com o servlet-container tomcat. 
 
-- **Heurísticas de Nielsen**
-    - Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface mais intuitiva e sugestiva para o usuário. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
+- **Heurísticas de Nielsen:** Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface mais intuitiva e sugestiva para o usuário. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
 
 ## Soft Skills
 
-- **Persistência**
-    - Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
+- **Persistência:** Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
 
--  **Atitude Positiva**
-    - Foi necessário manter-se motivado, otimista, focado nas possibilidades reais e mais nos acertos do que nos erros. Tentei sempre expor uma postura contagiante diante da equipe, ajudando da melhor forma.
+-  **Atitude Positiva:** Foi necessário manter-se motivado, otimista, focado nas possibilidades reais e mais nos acertos do que nos erros. Tentei sempre expor uma postura contagiante diante da equipe, ajudando da melhor forma.
 
 
 ## Período 2020-2 | **[Semáforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor)** :traffic_light: | Parceiro: SPC
@@ -160,19 +143,17 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 
 ## Tecnologias utilizadas
 
-- **Java**
-    - Principal linguagem que montou toda a estrutura que possibilita as operação mais importantes do sistema.
+- **Java:** Principal linguagem que montou toda a estrutura que possibilitou codificar as regras de negócio.
 
+- **Docker:** Oferece a capacidade de empacotar e executar um aplicativo em um ambiente isolado denominado container. O isolamento e a segurança permitem que você execute vários containers simultaneamente em um determinado host.
 
-- **Docker**
-    - O Docker oferece a capacidade de empacotar e executar um aplicativo em um ambiente isolado denominado container. O isolamento e a segurança permitem que você execute vários containers simultaneamente em um determinado host.
+- **Postgres SQL:** Usado para armazenar os dados da aplicação, o PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
 
-- **Postgres SQL**
-    - Usados para armazenar os dados da aplicação, o PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+- **HTML:** Linguagem utilizada para estruturação da página web (marcação de texto).
 
+- **CSS:** Linguagem que tem como função definir a estilização e todo o aspecto estético da página web.
 
-- **HTML, CSS, Bootstrap e JavaScript**
-    - Recursos importantes para a estruturação, estilização e interatividade da página web.
+- **JavaScript:** Linguagem de programação de uso geral, que neste projeto, foi usada para dar interatividade a pagina web.
 
 
 ## Contribuições individuais
@@ -181,22 +162,17 @@ Como dev, neste projeto eu participei da criação do layout do sistema, ajudand
 
 ## Hard Skills
 
-- **Bootstrap**
-    - Realizei ajustes de layout por meio templates com regras CSS pré estabelecidas. Aprendi melhor noções de alinhamento, espaçamento e redimensionamento dentro do CSS. 
+- **Bootstrap:** Realizei ajustes de layout por meio templates com regras CSS pré estabelecidas. Aprendi melhor noções de alinhamento, espaçamento e redimensionamento dentro do CSS. 
 
-- **Wireframes**
-    - Os wireframes serviram para auxiliar na estruturação e validação de ideias para a interface gráfica. É uma boa técnica para encontrar a identidade visual de um website, com o uso de protótipos.
+- **Wireframes:** Os wireframes serviram para auxiliar na estruturação e validação de ideias para a interface gráfica. É uma boa técnica para encontrar a identidade visual de um website, com o uso de protótipos.
 
-- **Docker**
-    - Aprendi alguns comandos básicos no docker, como execução de containers e gerenciamento de volumes. 
+- **Docker:** Aquisição de alguns comandos básicos no docker, como execução de containers e gerenciamento de volumes. 
 
 ## Soft Skills
 
-- **Flexibilidade**
-    - Foi necessário ser versátil para conseguir assimilar todos os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
+- **Flexibilidade:** Foi necessário ser versátil para conseguir assimilar todos os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
 
-- **Colaboração**
-    - Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
+- **Colaboração:** Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
 
 ## Período 2021-1 | **[Pythaon](https://gitlab.com/gurst6/projeto-integrador-pythaon)** :on: | Parceiro: Jetsoft
 
@@ -215,41 +191,33 @@ Em suma, o projeto possui as seguintes funções:
 
 ## Tecnologias utilizadas
 
-- **Python**
-    - Principal linguagem que possibilitou a criação das regras de negócio do sistema. Por meio de suas bibliotecas foi possível estruturar a nossa API.
+- **Python:** Principal linguagem que possibilitou a criação das regras de negócio do sistema. Por meio de suas bibliotecas foi possível estruturar a nossa API.
 
+- **Django:** É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão Model-View-Controller (MVC). Permite a criação de processos muito otimizados.
 
-- **Django**
-    - É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão Model-View-Controller (MVC). Permite a criação de processos muito otimizados.
+- **Mongo DB:** Banco de dados não relacional orientado a documentos utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliaram em uma das principais funções do projeto.
 
-
-- **Mongo DB**
-    - Banco de dados não relacional orientado a documentos utilizado para armazenar os curriculos e as vagas disponiveis; Suas ferramentas de geolocalização auxiliaram em uma das principais funções do projeto.
-
-
-- **Postman**
-    - É uma ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
+- **Postman:** É uma ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
 
 
 ## Contribuições individuais
 
 Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuja relação me agradou bastante. Tivemos uma boa dinâmica, o que facilitou para a criação de um projeto íntegro e um desenvolvimento bem fluído. Em relação as atribuições que tive no decorrer do projeto, exercendo o papel de dev, colaborei na criação e gerenciamento do banco de dados MongoDB. Foi a primeira experiência com um banco de dados não relacional e com o Atlas, sendo bastante enriquecedor para o meu conhecimento, merecendo destaque para o uso dos operadores geoespaciais para determinar distâncias e coordenadas ($maxDistance, $geometry e etc); por meio de cálculos de distância, foi possível constatar quais contratados são mais adequados para receber pagamento de vale transporte, ou caso a distância fosse muito curta, era feita a abstenção desse benefício.
 
+
 ## Hard Skills
 
-- **Mongo DB**
-    - Neste projeto tive a oportunidade de aprender esta nova ideia banco de dados orientado a documentos. Além da instalação e utilização também aprendi as vantagens, desvantagens e características deste banco de dados não relacional.
+- **Mongo DB:** Neste projeto tive a oportunidade de aprender esta nova ideia banco de dados orientado a documentos. Além da instalação e utilização também aprendi as vantagens, desvantagens e características deste banco de dados não relacional.
 
-- **API**
-    - APIs são mecanismos que permitem que dois componentes de software se comuniquem usando um conjunto de definições e protocolos. Dentro deste conceito, fui capaz de compreender o mecanismo de diálogo existente entre o front e o back end, por meio de requisições HTTP que são usadas para acessar os dados do servidor (GET, POST, PUT, DELETE, etc).
+- **API:** São mecanismos que permitem que dois componentes de software se comuniquem usando um conjunto de definições e protocolos. Dentro deste conceito, fui capaz de compreender o mecanismo de diálogo existente entre o front e o back end, por meio de requisições HTTP que são usadas para acessar os dados do servidor (GET, POST, PUT, DELETE, etc).
+
 
 ## Soft Skills
 
-- **Diligência**
-    - Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Esse banco dados foi escolhido por conta do alto desempenho com grandes volumes de dados, pela flexibilidade com documentos em formato JSON e pela fácil integração com Python.
+- **Diligência:** Eu e minha equipe tivemos que ter muito zelo e cuidado para entregar uma solução que tivesse um bom ganho de performance em relação ao acesso de grande volume de dados (vagas, contratados, etc). Esse banco dados foi escolhido por conta do alto desempenho com grandes volumes de dados, pela flexibilidade com documentos em formato JSON e pela fácil integração com Python.
 
-- **Comunicação eficaz**
-    - Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
+- **Comunicação eficaz:** Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
+
 
 ## Período 2021-2 | **[Pythaoff](https://gitlab.com/gurst6/pythaoff-ness)** :no_mobile_phones: | Parceiro: Ness
 
