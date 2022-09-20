@@ -189,7 +189,7 @@ Como dev, neste projeto eu participei da criação do layout do sistema, ajudand
 - **Colaboração:** Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
 
 
-## Período 2021-1 | **[Pythaon](https://gitlab.com/gurst6/projeto-integrador-pythaon)** :on: | Parceiro: Jetsoft
+## Período 2021-1 | **[PythaOn](https://gitlab.com/gurst6/projeto-integrador-pythaon)** :on: | Parceiro: Jetsoft
 
 No primeiro semestre de 2021, a premissa do projeto foi desenvolver uma solução parametrizável que combine diversos critérios, para busca de candidatos em diferentes vagas com diferentes recrutadores, propondo um processo eficiente para a contratação e evasão de funcionários, reduzindo assim, custos e aumentando a satisfação com alocações mais adequadas. A minha equipe visou criar um sistema para a otimização e que facilite o processo de contratação de novos colaboradores, tendo como foco a rapidez e agilidade nos procedimentos.
 
@@ -236,7 +236,7 @@ Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuj
 - **Comunicação eficaz:** Passei a integrar este novo grupo e me empenhei para estabelecer uma comunicação clara, eficaz e amigável com os demais integrantes.
 
 
-## Período 2021-2 | **[Pythaoff](https://gitlab.com/gurst6/pythaoff-ness)** :no_mobile_phones: | Parceiro: Ness
+## Período 2021-2 | **[PythaOff](https://gitlab.com/gurst6/pythaoff-ness)** :no_mobile_phones: | Parceiro: Ness
 
 Neste período, foi proposto o desafio de desenvolver uma solução de dados voltada para o ensino a distância, neste contexto foi criada a aplicação Pythaoff. O sistema deveria promover uma gestão para instituições de ensino, a partir de um outro projeto já desenvolvido por outra equipe de API em semestres anteriores. Afim de atingir os objetivos de gestão, o sistema deveria contemplar alguns relatórios, utilizando a tecnologia de DataWarehouse e um modelo OLAP para visualização e análise de dados. De maneira breve, é pertinente descrever os relatórios solicitados da seguinte forma: 
 
