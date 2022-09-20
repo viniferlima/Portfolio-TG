@@ -1,4 +1,4 @@
-# **Vinicius Fernandes de Lima**
+# **Vinícius Fernandes de Lima**
 
 
 ## Sobre mim :wave:
