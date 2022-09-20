@@ -60,6 +60,8 @@ Com base nesta premissa, depois de algumas análises foi definida a ideia de con
 
 ## Contribuições individuais
 
+![Página inicial do GlaDOS](img/home_glados.png)
+
 Neste projeto, o destaque da minha atuação como dev foi no front end, através da utilização do framework VueJs, possibilitando o desenvolvimento de componentes e a reutilização do código.
 
 Na parte do BD, aprimorei meu conhecimento em comandos DDL e DML para criação e manipulação de dados. 
@@ -121,6 +123,8 @@ A aplicação tinha as seguintes funções:
 
 ## Contribuições individuais
 
+![Tela de cadastro de funcionários](img/cadastro_pineapple.png)
+
 Neste projeto, tive a missão de participar do desenvolvimento da interface gráfica da aplicação, mais uma vez atuando como dev e auxiliando na criação dos formulários de cadastro das entidades e no layout do gráfico de Gantt. Também fui responsável pela escolha do template utilizado no sidebar (menu lateral), na descrição dos requisitos e poucas ocasiões lidei com o back end (Java). Foi um projeto que exigiu bastante comprometimento de mim e da minha equipe. Em alguns momentos, houve interpretações distoantes entre os membros da equipe, portanto foi necessário uma boa comunicação  e resiliência para sanar todas as dúvidas que surgiam durante todo o percurso até a sprint final.
 
 
@@ -163,6 +167,8 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 
 
 ## Contribuições individuais
+
+![Layout do site Semáforo do Consumidor](img/semaforo_do_consumidor.jpeg)
 
 Como dev, neste projeto eu participei da criação do layout do sistema, ajudando no uso do template Bootstrap nos formulários, na tela de login e no menu de navegação principal. Tendo em vista os projetos anteriores, existiu um desafio inédito: as decisões relativas ao sistema eram pautadas na Lei Geral de Proteção de Dados (LGPD), o que exigiu muitas pesquisas e discussões constantes com a minha equipe.
 
