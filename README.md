@@ -5,6 +5,7 @@
 
 Meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnico Opção e atualmente faço o curso superior de "Tecnologia de Banco de Dados" na Fatec de São José dos Campos. No momento, trabalho como desenvolvedor full stack Angular e Spring Boot na empresa Alloc IT Solutions, atuando no desenvolvimento de uma solução tecnológica, voltada para a área comercial, que faz integrações com o ERP SAP. Estou nessa função desde abril de 2021, quando iniciei a minha carreira na área. Durante a minha trajetória, aprendi que há muito a ser desbravado e há sempre novos conhecimentos para serem absorvidos. Me afeiçoo bastante pelo desenvolvimento web e desejo continuar enriquecendo minhas capacidades por meio do contato intenso com livros, cursos, artigos e fóruns, sendo javascript um dos meus principais focos de estudo.
 
+
 ## Conhecimentos técnicos
 
 * Java
@@ -17,6 +18,7 @@ Meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnic
 * JavaScript
 * C#
 
+
 ## Contato
 
 * [Gitlab](https://gitlab.com/viniferlima)
@@ -24,6 +26,7 @@ Meu nome é Vinicius, sou técnico em informática formado pelo Colégio Técnic
 * viniferlima0902@gmail.com
 
 # **Meus projetos**
+
 
 ## Período 2019-2 | **[GlaDOS](https://gitlab.com/omnitron/glados)** 🤖 | Parceiro: Fatec
 
@@ -38,6 +41,7 @@ Com base nesta premissa, depois de algumas análises foi definida a ideia de con
 * Cálculos e análises de percentuais de desconto;
 
 * Comparação e acompanhamento de preços;
+
 
 ## Tecnologias utilizadas
 
@@ -130,6 +134,7 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
 
 - **Heurísticas de Nielsen:** Neste período foi estudado as 10 Heurísticas de Nielsen que viabilizam uma interface mais intuitiva e sugestiva para o usuário. No sistema desenvolvido foi aplicado pelo menos 4 Heurísticas sendo elas: Usabilidade, Flexibilidade, Design minimalista e Reconhecimento.
 
+
 ## Soft Skills
 
 - **Persistência:** Foi necessário ter paciência para compreender os conceitos do Java, o funcionamento de requisições HTTP e o papel do client side e server side na prática. Em resumo, foi preciso respeitar a minha própria curva de aprendizado para absorver esses conhecimentos. 
@@ -140,6 +145,7 @@ Neste projeto, tive a missão de participar do desenvolvimento da interface grá
 ## Período 2020-2 | **[Semáforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor)** :traffic_light: | Parceiro: SPC
 
 Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta que serviria de complemento para o sistema Cadastro Positivo. Com o desafio proposto, realizamos o desenvolvimento da ferramenta do Semáforo do consumidor, que tinha como propósito estimular toda a cadeia de consumo de forma consciente, estimulado aqueles que estão com uma situação financeira instável a conseguir sua independência financeira; para aqueles que estão confortáveis financeiramente, são dedicados incentivos ao consumo com qualidade e com as melhores condições; e para empresas parceiras, é passado o direcionamento de consumidores qualificados, aumentando consequentemente, o índice de vendas e comissões.
+
 
 ## Tecnologias utilizadas
 
@@ -160,6 +166,7 @@ Em parceria com o SPC Brasil, foi proposto o desenvolvimento de uma ferramenta q
 
 Como dev, neste projeto eu participei da criação do layout do sistema, ajudando no uso do template Bootstrap nos formulários, na tela de login e no menu de navegação principal. Tendo em vista os projetos anteriores, existiu um desafio inédito: as decisões relativas ao sistema eram pautadas na Lei Geral de Proteção de Dados (LGPD), o que exigiu muitas pesquisas e discussões constantes com a minha equipe.
 
+
 ## Hard Skills
 
 - **Bootstrap:** Realizei ajustes de layout por meio templates com regras CSS pré estabelecidas. Aprendi melhor noções de alinhamento, espaçamento e redimensionamento dentro do CSS. 
@@ -168,11 +175,13 @@ Como dev, neste projeto eu participei da criação do layout do sistema, ajudand
 
 - **Docker:** Aquisição de alguns comandos básicos no docker, como execução de containers e gerenciamento de volumes. 
 
+
 ## Soft Skills
 
 - **Flexibilidade:** Foi necessário ser versátil para conseguir assimilar todos os novos conceitos, realizar as tarefas impostas e colaborar da melhor forma com a minha equipe na qual eu tinha ingressado de última hora e desconhecia todos os integrantes.
 
 - **Colaboração:** Por mais que eu fosse o integrante com menor experiência profissional, tentei me mostrar interessado e focado em ajudar o meu time da melhor forma possível, dentro das minhas capacidades.
+
 
 ## Período 2021-1 | **[Pythaon](https://gitlab.com/gurst6/projeto-integrador-pythaon)** :on: | Parceiro: Jetsoft
 
