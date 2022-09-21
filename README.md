@@ -253,6 +253,39 @@ Neste período, foi proposto o desafio de desenvolver uma solução de dados vol
 - Registro de chats e logs;
 
 
+## Tecnologias utilizadas
+
+- **Python:** Linguagem de programação usada para construir o back-end da aplicação.
+
+- **Django:** É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão Model-View-Controller (MVC). Permite a criação de processos muito otimizados.
+
+- **SQL:** Linguagem usada para executar comandos em bancos de dados relacionais.
+
+- **Selenium:** O Selenium é uma ferramenta utilizada para automatização de testes de sistemas que permite ao usuário reproduzi-los rapidamente no ambiente real da aplicação, em função da sua integração direta com o navegador.Foi usado para a criação do script de automação para o Webbot coletar os dados na Web;
+
+- **Gradle:** É um sistema avançado de automatização de builds.
+
+- **Power BI:** É uma ferramenta da Microsoft voltada para a apresentação de informações através da criação de painéis e dashboards. Foi a ferramenta de OLAP para exibir os dados persistidos no banco de dados.
+
+- **Pentaho:** Ferramenta utilizada para realizar o processo de ETL no banco de dados.
+
+
+## Contribuições individuais
+
+Neste projeto, fiquei com a missão de desenvolver uma interface gráfica intuitiva e apresentável contendo os painéis e dashboards, de forma que fossem exibidos os dados persistidos no banco de dados. Houve uma certa indecisão na escolha da ferramenta/linguagem a ser usada na construção do layout da aplicação, sendo que inicialmente fizemos esboços com Angular e Vue Js. Após alguns protótipos, desenvolvemos toda a interface gráfica do utilizador com o Power BI, o que nos trouxe muita facilidade para estabelecer conexão com o banco de dados e para realizar os cálculos necessários para montar os gráficos, contadores e afins.
+
+## Hard Skills
+
+- **Power BI:** Aquisição de noções gerais da ferramenta, tais como, criar visualizações, dashboards, relatórios e a alimentá-los com conjuntos de dados.
+
+- **Angular:** Apesar de não ter sido a escolha final para o desenvolvimento do front-end do projeto, por um longo tempo de trabalho, esse framework do JavaScript foi utilizado. Foi tempo suficiente para ter contato com as suas diretivas, pipes, atributos e até mesmo algumas bibliotecas JavaScript que fornecem recursos para montagem de gráficos, podendo citar o ApexCharts.js e Chart.js.
+
+## Soft Skills
+
+- **Persistência:** Foram feitas muitas alterações na interface gráfica ao decorrer do projeto, sendo que em duas ocasiões diferentes a ferramenta em questão fora substituída. Foi necessário persistir até encontrar o layout que mais agradasse o cliente final em um curto espaço de tempo.
+
+- **Organização:** A missão de cada integrante foi bem definida pelas capacidades individuais e afinidades de cada um, definindo quem era a escolha ideal para cada função. 
+
 
 
 
