@@ -290,6 +290,7 @@ Neste projeto, fiquei com a missão de desenvolver uma interface gráfica intuit
 
 - **Organização:** A missão de cada integrante foi bem definida pelas capacidades individuais e afinidades de cada um, definindo quem era a escolha ideal para cada função. 
 
+## Período 2022-1 | **[LGPD](https://gitlab.com/gof-webbot/lgpd)** :closed_lock_with_key:
 
-
+A escolha de projeto final para compor o portfolio não possui parceiro acadêmico assim como nos trabalhos anteriores, mas desta vez foi proposto um projeto final em disciplinas matriculadas no 6º semestre. De acordo com este contexto, foi criado um projeto que aborda e se apoia na Lei Geral de Proteção de Dados (LGPD), especificamente nos temas: portabilidade de dados, particionamento e exclusão de dados sensíveis. A LGPD, Lei n° 13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo. A Lei fala sobre o tratamento de dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado, englobando um amplo conjunto de operações que podem ocorrer em meios manuais ou digitais. Para a criação das operações deste projeto, foram imaginadas algumas ocasiões reais nas quais os titulares dos dados (sejam estes pessoas físicas ou jurídicas) pretendem realizar a exclusão de seus dados privados, que estão em posse de um controlador, ou até mesmo realizar a portabilidade destes dados que serão passados para um novo fornecedor de serviço.
 
