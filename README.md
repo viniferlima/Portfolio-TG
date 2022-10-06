@@ -292,5 +292,19 @@ Neste projeto, fiquei com a missão de desenvolver uma interface gráfica intuit
 
 ## Período 2022-1 | **[LGPD](https://gitlab.com/gof-webbot/lgpd)** :closed_lock_with_key:
 
-A escolha de projeto final para compor o portfolio não possui parceiro acadêmico assim como nos trabalhos anteriores, mas desta vez foi proposto um projeto final em disciplinas matriculadas no 6º semestre. De acordo com este contexto, foi criado um projeto que aborda e se apoia na Lei Geral de Proteção de Dados (LGPD), especificamente nos temas: portabilidade de dados, particionamento e exclusão de dados sensíveis. A LGPD, Lei n° 13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo. A Lei fala sobre o tratamento de dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado, englobando um amplo conjunto de operações que podem ocorrer em meios manuais ou digitais. Para a criação das operações deste projeto, foram imaginadas algumas ocasiões reais nas quais os titulares dos dados (sejam estes pessoas físicas ou jurídicas) pretendem realizar a exclusão de seus dados privados, que estão em posse de um controlador, ou até mesmo realizar a portabilidade destes dados que serão passados para um novo fornecedor de serviço.
+A escolha como projeto final para compor o portfolio não possui parceiro acadêmico assim como naqueles citados anteriormente, mas desta vez foi proposto um último trabalho envolvendo alguma das disciplinas matriculadas no 6º semestre. De acordo com este contexto, foi criado um projeto que aborda e se apoia na Lei Geral de Proteção de Dados (LGPD), especificamente nos temas: portabilidade de dados, particionamento e exclusão de dados sensíveis. A LGPD, Lei n° 13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo. A Lei fala sobre o tratamento de dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado, englobando um amplo conjunto de operações que podem ocorrer em meios manuais ou digitais. Para a criação das funcionalidades deste projeto, foram imaginadas algumas ocasiões reais em que os titulares dos dados pretendem realizar a exclusão de seus dados privados, que estão em posse de um controlador (empresa); há casos também onde existe a necessidade de realizar a transferência destes dados que estarão sob controle de um novo fornecedor de serviço, tal como em uma troca de serviço de telefonia/internet ou até mesmo em processo de fusão/ aquisição de empresas.
 
+
+## Tecnologias utilizadas
+
+- **Python:** Linguagem de programação usada para construir o back-end da aplicação. Por meio de suas ferramentas se fez possível criar as regras de negócio.
+
+- **Django:** É um framework de aplicativos web gratuito e de código aberto escrito em Python. Foi utilizado para realizar requisições HTTP.
+
+- **Postman:** É uma ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
+
+- **MongoDB:** É um banco de dados orientado a documentos que possui código aberto. Utilizado para armazenar os dados das entidades do projeto. Foi utilizado um certificado digital auto assinado para ativar o protocolo SSL durante as transações. 
+
+- **Padrão de criptografia AES:** O AES é uma primitiva criptográfica destinada a compor sistemas de cifragem e decifragem simétrica (i.e. mesma chave para cifrar e decifrar). É uma cifra de bloco, ou seja, opera em blocos de tamanho fixo (128 bits, ou 16 bytes. Para encriptar e decriptar dados do cliente foi usada a biblioteca pycrypto.
+
+- **Particionamento (sharding):** Os dados são divididos em partições/fragmentos menores que podem ser gerenciadas e acessadas separadamente. Esse processo foi usado para particionar uma tabela de venda onde era separado os dados da venda e do cliente, sendo assim possível apagar os dados do cliente sem precisar apagar a venda, mantendo o histórico.
