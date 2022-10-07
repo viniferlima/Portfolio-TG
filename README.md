@@ -297,14 +297,18 @@ A escolha como projeto final para compor o portfolio não possui parceiro acadê
 
 ## Tecnologias utilizadas
 
-- **Python:** Linguagem de programação usada para construir o back-end da aplicação. Por meio de suas ferramentas se fez possível criar as regras de negócio.
+- **Python:** Linguagem de programação usada para construir o back-end da aplicação. Por meio de suas bibliotecas se fez possível criar as regras de negócio (pycripto, django, pymongo e etc).
 
-- **Django:** É um framework de aplicativos web gratuito e de código aberto escrito em Python. Foi utilizado para realizar requisições HTTP.
+- **Django:** É um framework de aplicativos web gratuito e de código aberto escrito em Python. Foi utilizado para o envio de requisições HTTP.
 
 - **Postman:** É uma ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
 
 - **MongoDB:** É um banco de dados orientado a documentos que possui código aberto. Utilizado para armazenar os dados das entidades do projeto. Foi utilizado um certificado digital auto assinado para ativar o protocolo SSL durante as transações. 
 
-- **Padrão de criptografia AES:** O AES é uma primitiva criptográfica destinada a compor sistemas de cifragem e decifragem simétrica (i.e. mesma chave para cifrar e decifrar). É uma cifra de bloco, ou seja, opera em blocos de tamanho fixo (128 bits, ou 16 bytes. Para encriptar e decriptar dados do cliente foi usada a biblioteca pycrypto.
+- **Padrão de criptografia AES:** O AES é um padrão criptográfico destinado a compor sistemas de cifragem e decifragem simétrica (i.e. mesma chave para cifrar e decifrar). É uma cifra de bloco, ou seja, opera em blocos de tamanho fixo (128 bits, ou 16 bytes. Para encriptar e decriptar dados do cliente foi usada a biblioteca pycrypto do python.
 
-- **Particionamento (sharding):** Os dados são divididos em partições/fragmentos menores que podem ser gerenciadas e acessadas separadamente. Esse processo foi usado para particionar uma tabela de venda onde era separado os dados da venda e do cliente, sendo assim possível apagar os dados do cliente sem precisar apagar a venda, mantendo o histórico.
+- **Particionamento (sharding):** Os dados são divididos em partições/fragmentos menores que podem ser gerenciados e acessados separadamente. Esse processo foi usado para particionar uma tabela contendo registros de vendas na qual os dados do cliente eram alocados separadamente, tornando possível apagar os dados do cliente sem comprometer os dados de venda, mantendo o histórico.
+
+## Contribuições individuais
+
+Neste projeto final, fui responsável por desenvolver a funcionalidade de portabilidade de dados. Para tornar essa operação possível, inicialmente foi criado um banco de dados no MongoDB Atlas, que é um serviço em nuvem totalmente gerenciado. Essa base de dados continha uma tabela com dados de clientes fictícios que seriam transferidos para um segundo banco de dados, simulando o processo de portabilidade de dados pessoais (nome, CPF, data de nascimento, email, etc). Contudo, além de mover os dados sensíveis para outro meio         
