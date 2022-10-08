@@ -315,6 +315,11 @@ A escolha como projeto final para compor o portfolio não possui parceiro acadê
 
 Neste projeto final, fui responsável por desenvolver a funcionalidade de portabilidade de dados. Para tornar essa operação possível, inicialmente foi criado um banco de dados no MongoDB Atlas, que é um serviço em nuvem totalmente gerenciado. Essa base de dados continha uma tabela com dados de clientes fictícios que seriam transferidos para um segundo banco de dados, simulando o processo de portabilidade de dados pessoais (nome, CPF, data de nascimento, email, etc). Contudo, mover os dados sensíveis para outro meio não foi a única preocupação, foi necessário garantir a integridade dos dados e a segurança da transação. Para isso, foi utilizado o protocolo SSL que estabelece um canal de comunicação criptografado, proporcionando uma conexão mais segura entre as duas bases de dados. Ao inserir estes dados no novo local, esses mesmos dados foram deletados de sua origem, tudo com controle transacional para assegurar a atomicidade, ou seja, caso alguma etapa da operação falhasse, nada ocorria e a transação era cancelada.
 
+![Diagrama de casos de uso do projeto final](img/casos_de_uso.png)
+
+
+![Método que realiza a portabilidade dos dados do cliente](img/portabilidade.png)
+
 ## Hard Skills
 
 - **Integração Python e MongoDB:** Por meio do uso do módulo pymongo, foi possível realizar as interações com o MongoDB. Aprendi a utilizar alguns operadores de consulta na linguagem python e a função bulkwrite que realiza um volume de operações por iteração (ex: insert, alter, delete).    
