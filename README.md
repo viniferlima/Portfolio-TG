@@ -309,6 +309,27 @@ A escolha como projeto final para compor o portfolio não possui parceiro acadê
 
 - **Particionamento (sharding):** Os dados são divididos em partições/fragmentos menores que podem ser gerenciados e acessados separadamente. Esse processo foi usado para particionar uma tabela contendo registros de vendas na qual os dados do cliente eram alocados separadamente, tornando possível apagar os dados do cliente sem comprometer os dados de venda, mantendo o histórico.
 
+- **OpenSSL:** O OpenSSL é uma ferramenta que oferece funções criptográficas para suportar protocolos SSL (Secure Socket Layer) e TLS (Transport Layer Security). Na segurança SSL, os sites usam certificados digitais para provar sua legitimidade.
+
 ## Contribuições individuais
 
-Neste projeto final, fui responsável por desenvolver a funcionalidade de portabilidade de dados. Para tornar essa operação possível, inicialmente foi criado um banco de dados no MongoDB Atlas, que é um serviço em nuvem totalmente gerenciado. Essa base de dados continha uma tabela com dados de clientes fictícios que seriam transferidos para um segundo banco de dados, simulando o processo de portabilidade de dados pessoais (nome, CPF, data de nascimento, email, etc). Contudo, além de mover os dados sensíveis para outro meio         
+Neste projeto final, fui responsável por desenvolver a funcionalidade de portabilidade de dados. Para tornar essa operação possível, inicialmente foi criado um banco de dados no MongoDB Atlas, que é um serviço em nuvem totalmente gerenciado. Essa base de dados continha uma tabela com dados de clientes fictícios que seriam transferidos para um segundo banco de dados, simulando o processo de portabilidade de dados pessoais (nome, CPF, data de nascimento, email, etc). Contudo, mover os dados sensíveis para outro meio não foi a única preocupação, foi necessário garantir a integridade dos dados e a segurança da transação. Para isso, foi utilizado o protocolo SSL que estabelece um canal de comunicação criptografado, proporcionando uma conexão mais segura entre as duas bases de dados. Ao inserir estes dados no novo local, esses mesmos dados foram deletados de sua origem, tudo com controle transacional para assegurar a atomicidade, ou seja, caso alguma etapa da operação falhasse, nada ocorria e a transação era cancelada.
+
+## Hard Skills
+
+- **Integração Python e MongoDB:** Por meio do uso do módulo pymongo, foi possível realizar as interações com o MongoDB. Aprendi a utilizar alguns operadores de consulta na linguagem python e a função bulkwrite que realiza um volume de operações por iteração (ex: insert, alter, delete).    
+
+- **Aplicação da LGPD:** Assim como proposto, foi desenvolvido diversos conhecimentos sobre aplicação desta lei, entendendo a importância de sua utilização e aplicação na prática.
+
+- **Estabelecer conexão SSL:** Para garantir a conexão SSL, foi necessário entender o que é este protocolo de criptografia e como configurar esta conexão no MongoDB. Foi utilizado o OpensSSL para gerar o certificado digital com a sua chave privada.
+
+## Soft Skills
+
+- **Autonomia:** Mesmo o trabalho sendo em grupo, cada integrante foi capaz de conduzir sua missão sem grandes problemas.
+
+- **Proatividade:** Cada integrante foi designado a uma parte importante do projeto, portanto fui exigido a buscar soluções viáveis para a resolução dos problemas, de maneira espontânea, sem estímulos externos.
+
+- **Criativdade:** Dentro da minha equipe, cada integrante foi responsável por imaginar um cenário problemático que tivesse relação com alguma diretriz da Lei Geral de Proteção de Dados, sendo a minha escolha, a portabilidade de dados.
+
+
+
