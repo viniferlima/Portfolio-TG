@@ -239,7 +239,7 @@ Neste projeto ocorreu uma mudança positiva, pois passei a integrar um grupo cuj
 
 ## Período 2021-2 | **[PythaOff](https://gitlab.com/gurst6/pythaoff-ness)** :no_mobile_phones: | Parceiro: Ness
 
-Neste período, foi proposto o desafio de desenvolver uma solução de dados voltada para o ensino a distância, neste contexto foi criada a aplicação Pythaoff. O sistema deveria promover uma gestão para instituições de ensino, a partir de um outro projeto já desenvolvido por outra equipe de API em semestres anteriores. Afim de atingir os objetivos de gestão, o sistema deveria contemplar alguns relatórios, utilizando a tecnologia de DataWarehouse e um modelo OLAP para visualização e análise de dados. De maneira breve, é pertinente descrever os relatórios solicitados da seguinte forma: 
+Neste período, foi proposto o desenvolvimento de uma ferramenta tecnológica voltada para o ensino a distância. Neste contexto foi criada a aplicação Pythaoff. O sistema visa facilitar a gestão de cursos a distancia e otimizar processo de aprendizagem por meio do acompanhamento de dados e de uma interface interativa. A fim de atingir os objetivos da gestão educacional, o sistema deveria contemplar alguns relatórios, utilizando a tecnologia de DataWarehouse e um modelo OLAP para visualização e análise de dados. Desta forma, pode-se descrever os relatórios solicitados da seguinte forma: 
 
 - Engajamento: quais alunos/colaboradores estão fazendo o curso no qual estão matriculados;
 
@@ -258,22 +258,22 @@ Neste período, foi proposto o desafio de desenvolver uma solução de dados vol
 
 - **Python:** Linguagem de programação usada para construir o back-end da aplicação.
 
-- **Django:** É um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão Model-View-Controller (MVC). Permite a criação de processos muito otimizados.
+- **Django:** Framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão Model-View-Controller (MVC). Permite a criação de processos muito otimizados.
 
 - **SQL:** Linguagem usada para executar comandos em bancos de dados relacionais.
 
-- **Selenium:** O Selenium é uma ferramenta utilizada para automatização de testes de sistemas que permite ao usuário reproduzi-los rapidamente no ambiente real da aplicação, em função da sua integração direta com o navegador.Foi usado para a criação do script de automação para o Webbot coletar os dados na Web;
+- **Selenium:** Ferramenta utilizada para automatização de testes de sistemas que permite ao usuário reproduzi-los rapidamente no ambiente real da aplicação, em função da sua integração direta com o navegador.Foi usado para a criação do script de automação para o Webbot coletar os dados na Web;
 
-- **Gradle:** É um sistema avançado de automatização de builds.
+- **Gradle:** Sistema avançado de automatização de builds.
 
-- **Power BI:** É uma ferramenta da Microsoft voltada para a apresentação de informações através da criação de painéis e dashboards. Foi a ferramenta de OLAP para exibir os dados persistidos no banco de dados.
+- **Power BI:** Ferramenta da Microsoft voltada para a apresentação de informações através da criação de painéis e dashboards. Foi a ferramenta de OLAP para exibir os dados persistidos no banco de dados.
 
 - **Pentaho:** Ferramenta utilizada para realizar o processo de ETL no banco de dados.
 
 
 ## Contribuições individuais
 
-Neste projeto, fiquei com a missão de desenvolver uma interface gráfica intuitiva e apresentável contendo os painéis e dashboards, de forma que fossem exibidos os dados persistidos no banco de dados. Houve uma certa indecisão na escolha da ferramenta/linguagem a ser usada na construção do layout da aplicação, sendo que inicialmente fizemos esboços com Angular e Vue Js. Após alguns protótipos, desenvolvemos toda a interface gráfica do utilizador com o Power BI, o que nos trouxe muita facilidade para estabelecer conexão com o banco de dados e para realizar os cálculos necessários para montar os gráficos, contadores e afins.
+Neste projeto, fiquei com a missão de desenvolver uma interface gráfica intuitiva e apresentável contendo os painéis e dashboards, de forma que fossem exibidos os dados persistidos no banco de dados. Houve uma certa indecisão na escolha da ferramenta/linguagem a ser usada na construção do layout da aplicação, sendo que inicialmente fiz esboços do painel principal em aplicações SPA (single page application) com Angular e Vue Js. Após algumas tentativas, depois de alinhar melhor com o cliente as suas necessidades, a interface gráfica do utilizador foi construída com o Power BI, na qual eu contribui. O Power BI nos trouxe mais agilidade para estabelecer conexão com o banco de dados e para realizar os cálculos necessários para montar os gráficos e contadores, por conta de suas funcionalidades práticas e baixa curva de aprendizado.
 
 
 ![Interface gráfica criada no Power BI](img/power_bi_pythaoff.png)
@@ -292,22 +292,22 @@ Neste projeto, fiquei com a missão de desenvolver uma interface gráfica intuit
 
 ## Período 2022-1 | **[LGPD](https://gitlab.com/gof-webbot/lgpd)** :closed_lock_with_key:
 
-A escolha como projeto final para compor o portfolio não possui parceiro acadêmico assim como naqueles citados anteriormente, mas desta vez foi proposto um último trabalho envolvendo alguma das disciplinas matriculadas no 6º semestre. De acordo com este contexto, foi criado um projeto que aborda e se apoia na Lei Geral de Proteção de Dados (LGPD), especificamente nos temas: portabilidade de dados, particionamento e exclusão de dados sensíveis. A LGPD, Lei n° 13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo. A Lei fala sobre o tratamento de dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado, englobando um amplo conjunto de operações que podem ocorrer em meios manuais ou digitais. Para a criação das funcionalidades deste projeto, foram imaginadas algumas ocasiões reais em que os titulares dos dados pretendem realizar a exclusão de seus dados privados, que estão em posse de um controlador (empresa); há casos também onde existe a necessidade de realizar a transferência destes dados que estarão sob controle de um novo fornecedor de serviço, tal como em uma troca de serviço de telefonia/internet ou até mesmo em processo de fusão/ aquisição de empresas.
+O projeto final para compor o portfolio não possui parceiro acadêmico e propôs-se assim, um trabalho envolvendo alguma das disciplinas matriculadas no 6º semestre. De acordo com este contexto, foi desenvolvido um projeto com abordagem e que se apoia na Lei Geral de Proteção de Dados (LGPD), especificamente nos temas: portabilidade de dados, particionamento e exclusão de dados sensíveis. A LGPD, Lei n° 13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo. Esta lei trata sobre o tratamento de dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado, englobando um amplo conjunto de operações que podem ocorrer em meios manuais ou digitais. Para a criação das funcionalidades deste projeto, foram consideradas algumas ocasiões reais em que os titulares dos dados pretendem realizar a exclusão de seus dados privados, que estão em posse de um controlador (empresa); há casos também onde existe a necessidade de realizar a transferência destes dados que estarão sob controle de um novo fornecedor de serviço, tal como em uma troca de serviço de telefonia/internet ou até mesmo em processo de fusão/ aquisição de empresas.
 
 
 ## Tecnologias utilizadas
 
 - **Python:** Linguagem de programação usada para construir o back-end da aplicação. Por meio de suas bibliotecas se fez possível criar as regras de negócio (pycripto, django, pymongo e etc).
 
-- **Django:** É um framework de aplicativos web gratuito e de código aberto escrito em Python. Foi utilizado para o envio de requisições HTTP.
+- **Django:** Framework de aplicativos web gratuito e de código aberto escrito em Python. Foi utilizado para o envio de requisições HTTP.
 
-- **Postman:** É uma ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
+- **Postman:** Ferramenta que dá suporte à documentação das requisições feitas pela API. Ele possui ambiente para a documentação, execução de testes de endpoints e requisições em geral.
 
-- **MongoDB:** É um banco de dados orientado a documentos que possui código aberto. Utilizado para armazenar os dados das entidades do projeto. Foi utilizado um certificado digital auto assinado para ativar o protocolo SSL durante as transações. 
+- **MongoDB:** Banco de dados orientado a documentos que possui código aberto. Utilizado para armazenar os dados das entidades do projeto. Foi utilizado um certificado digital auto assinado para ativar o protocolo SSL durante as transações. 
 
-- **Padrão de criptografia AES:** O AES é um padrão criptográfico destinado a compor sistemas de cifragem e decifragem simétrica (i.e. mesma chave para cifrar e decifrar). É uma cifra de bloco, ou seja, opera em blocos de tamanho fixo (128 bits, ou 16 bytes. Para encriptar e decriptar dados do cliente foi usada a biblioteca pycrypto do python.
+- **Padrão de criptografia AES:** Padrão criptográfico destinado a compor sistemas de cifragem e decifragem simétrica (i.e. mesma chave para cifrar e decifrar). É uma cifra de bloco, ou seja, opera em blocos de tamanho fixo (128 bits, ou 16 bytes. Para encriptar e decriptar dados do cliente foi usada a biblioteca pycrypto do python.
 
-- **Particionamento (sharding):** Os dados são divididos em partições/fragmentos menores que podem ser gerenciados e acessados separadamente. Esse processo foi usado para particionar uma tabela contendo registros de vendas na qual os dados do cliente eram alocados separadamente, tornando possível apagar os dados do cliente sem comprometer os dados de venda, mantendo o histórico.
+- **Particionamento (sharding):** Divisão de dados em partições/fragmentos menores que podem ser gerenciados e acessados separadamente. Esse processo foi usado para particionar uma tabela contendo registros de vendas na qual os dados do cliente eram alocados separadamente, tornando possível apagar os dados do cliente sem comprometer os dados de venda, mantendo o histórico.
 
 - **OpenSSL:** O OpenSSL é uma ferramenta que oferece funções criptográficas para suportar protocolos SSL (Secure Socket Layer) e TLS (Transport Layer Security). Na segurança SSL, os sites usam certificados digitais para provar sua legitimidade.
 
